@@ -30,7 +30,7 @@ class _FoodScreenState extends State<FoodScreen> {
                     color: Colors.yellowAccent,
                     width: 1,
                     style: BorderStyle.solid,
-                    strokeAlign: StrokeAlign.inside,
+                    // strokeAlign: StrokeAlign.inside,
                   ),
                   boxShadow: [
                     BoxShadow(
@@ -74,7 +74,7 @@ class _FoodScreenState extends State<FoodScreen> {
                     color: Colors.yellowAccent,
                     width: 2,
                     style: BorderStyle.solid,
-                    strokeAlign: StrokeAlign.inside,
+                    // strokeAlign: StrokeAlign.inside,
                   ),
                   boxShadow: [
                     BoxShadow(

@@ -28,7 +28,7 @@ class _SocialMediaScreenState extends State<SocialMediaScreen> {
                     color: Colors.lightBlue,
                     width: 1,
                     style: BorderStyle.solid,
-                    strokeAlign: StrokeAlign.inside,
+                    // strokeAlign: StrokeAlign.inside,
                   ),
                   boxShadow: const [
                     BoxShadow(
@@ -85,7 +85,7 @@ class _SocialMediaScreenState extends State<SocialMediaScreen> {
                     color: Colors.lightBlue,
                     width: 2,
                     style: BorderStyle.solid,
-                    strokeAlign: StrokeAlign.inside,
+                    // strokeAlign: StrokeAlign.inside,
                   ),
                   boxShadow: const [
                     BoxShadow(
